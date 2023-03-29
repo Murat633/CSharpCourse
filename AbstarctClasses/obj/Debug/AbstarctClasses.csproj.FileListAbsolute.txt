@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\CSharpCourse\AbstarctClasses\bin\Debug\AbstarctClasses.exe.config
+C:\Users\ASUS\source\repos\CSharpCourse\AbstarctClasses\bin\Debug\AbstarctClasses.exe
+C:\Users\ASUS\source\repos\CSharpCourse\AbstarctClasses\bin\Debug\AbstarctClasses.pdb
+C:\Users\ASUS\source\repos\CSharpCourse\AbstarctClasses\obj\Debug\AbstarctClasses.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\CSharpCourse\AbstarctClasses\obj\Debug\AbstarctClasses.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\CSharpCourse\AbstarctClasses\obj\Debug\AbstarctClasses.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CSharpCourse\AbstarctClasses\obj\Debug\AbstarctClasses.exe
+C:\Users\ASUS\source\repos\CSharpCourse\AbstarctClasses\obj\Debug\AbstarctClasses.pdb

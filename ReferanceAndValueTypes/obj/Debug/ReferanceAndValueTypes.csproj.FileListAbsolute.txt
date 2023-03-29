@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\CSharpCourse\ReferanceAndValueTypes\bin\Debug\ReferanceAndValueTypes.exe.config
+C:\Users\ASUS\source\repos\CSharpCourse\ReferanceAndValueTypes\bin\Debug\ReferanceAndValueTypes.exe
+C:\Users\ASUS\source\repos\CSharpCourse\ReferanceAndValueTypes\bin\Debug\ReferanceAndValueTypes.pdb
+C:\Users\ASUS\source\repos\CSharpCourse\ReferanceAndValueTypes\obj\Debug\ReferanceAndValueTypes.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\CSharpCourse\ReferanceAndValueTypes\obj\Debug\ReferanceAndValueTypes.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\CSharpCourse\ReferanceAndValueTypes\obj\Debug\ReferanceAndValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CSharpCourse\ReferanceAndValueTypes\obj\Debug\ReferanceAndValueTypes.exe
+C:\Users\ASUS\source\repos\CSharpCourse\ReferanceAndValueTypes\obj\Debug\ReferanceAndValueTypes.pdb

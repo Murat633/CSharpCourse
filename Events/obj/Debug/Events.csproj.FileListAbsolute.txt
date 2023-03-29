@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\CSharpCourse\Events\bin\Debug\Events.exe.config
+C:\Users\ASUS\source\repos\CSharpCourse\Events\bin\Debug\Events.exe
+C:\Users\ASUS\source\repos\CSharpCourse\Events\bin\Debug\Events.pdb
+C:\Users\ASUS\source\repos\CSharpCourse\Events\obj\Debug\Events.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\CSharpCourse\Events\obj\Debug\Events.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\CSharpCourse\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CSharpCourse\Events\obj\Debug\Events.exe
+C:\Users\ASUS\source\repos\CSharpCourse\Events\obj\Debug\Events.pdb

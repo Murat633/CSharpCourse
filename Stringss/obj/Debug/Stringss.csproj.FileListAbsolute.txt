@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\CSharpCourse\Stringss\bin\Debug\Stringss.exe.config
+C:\Users\ASUS\source\repos\CSharpCourse\Stringss\bin\Debug\Stringss.exe
+C:\Users\ASUS\source\repos\CSharpCourse\Stringss\bin\Debug\Stringss.pdb
+C:\Users\ASUS\source\repos\CSharpCourse\Stringss\obj\Debug\Stringss.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\CSharpCourse\Stringss\obj\Debug\Stringss.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\CSharpCourse\Stringss\obj\Debug\Stringss.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CSharpCourse\Stringss\obj\Debug\Stringss.exe
+C:\Users\ASUS\source\repos\CSharpCourse\Stringss\obj\Debug\Stringss.pdb
